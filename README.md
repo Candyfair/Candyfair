@@ -18,6 +18,8 @@
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Candyfair&langs_count=8)](https://github.com/Candyfair/github-readme-stats)
+
 ### UI Design
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -42,8 +44,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Candice's wakatime stats](https://github-readme-stats-candyfair.vercel.app/api/wakatime?username=Candyfair)](https://github.com/Candyfair/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Candyfair&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-candyfair.vercel.app/api/top-langs/?username=Candyfair&layout=compact)](https://github.com/Candyfair/github-readme-stats)
 
 
 -->
