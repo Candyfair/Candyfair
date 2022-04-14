@@ -19,7 +19,6 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Candyfair&langs_count=8&layout=compact&theme=buefy)](https://github.com/Candyfair/github-readme-stats)
-[![Candice's wakatime stats](https://github-readme-stats-candyfair.vercel.app/api/wakatime?username=Candyfair&theme=buefy)](https://github.com/Candyfair/github-readme-stats)
 
 ### UI Design
 
@@ -47,5 +46,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats-candyfair.vercel.app/api/top-langs/?username=Candyfair&layout=compact)](https://github.com/Candyfair/github-readme-stats)
 
+[![Candice's wakatime stats](https://github-readme-stats-candyfair.vercel.app/api/wakatime?username=Candyfair&theme=buefy)](https://github.com/Candyfair/github-readme-stats)
 
 -->
