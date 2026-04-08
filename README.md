@@ -1,6 +1,5 @@
 ### Hi there! 👋
 
-[![Candice's GitHub stats](https://github-readme-stats-candyfair.vercel.app/api?username=Candyfair&hide=stars&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 ![Cover](https://github.com/Candyfair/Candyfair/blob/main/img/candyfair-webdev.png)
 
 **Hello, I'm Candice**, a front-end web developer with a background in finance, graphic design and e-commerce from 🇫🇷 **Paris, France**. I have a passion for illustration and I am well versed in design trends and usability. 
