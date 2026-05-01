@@ -4,9 +4,9 @@ Based in Paris, France.
 
 ![Cover](https://github.com/Candyfair/Candyfair/blob/main/img/candyfair-webdev.png)
 
-I build web and mobile interfaces with a focus on real users and real stakes. Currently working on medical applications in a healthcare company - including a React Native app certified as a medical device, deployed on App Store & Google Play with 7,000 active users.
+I build web and mobile interfaces with a focus on the user experience. Currently working on medical applications in a healthcare company - including a React Native app certified as a medical device, deployed on App Store & Google Play with 7,000 active users.
 
-Before moving into development, I spent years in IT project management and financial controlling. That background shapes the way I approach a product - I tend to think about flows, edge cases, and what happens when things go wrong before writing a single line of code.
+Before moving into development, I spent years in IT project management and financial controlling. That background shapes the way I approach a product - I tend to think about flows and what happens when things go wrong from the outset.
 
 **What I'm working on**
 
