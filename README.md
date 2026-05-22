@@ -4,15 +4,25 @@ Based in Paris, France.
 
 ![Cover](https://github.com/Candyfair/Candyfair/blob/main/img/candyfair-webdev.png)
 
-I build web and mobile interfaces with a focus on the user experience. Currently working on medical applications in a healthcare company - including a React Native app certified as a medical device, deployed on App Store & Google Play with 7,000 active users.
+I build web and mobile applications focused on usability, reliability, and product quality.
 
-Before moving into development, I spent years in IT project management and financial controlling. That background shapes the way I approach a product - I tend to think about flows and what happens when things go wrong from the outset.
+Currently working in healthtech on React and React Native applications, including a mobile app certified as a medical device and deployed on the App Store & Google Play with 7,000+ active users.
 
-**What I'm working on**
+My work spans frontend architecture, responsive interfaces, API integration, state management, and production maintenance in regulated environments.
 
-- [IcelandicTeacher](https://github.com/Candyfair/IcelandicTeacher) - a local-first grammar learning app powered by a local LLM, with a two-phase anti-hallucination pipeline. Node.js / React / Vite / Ollama.
-- [JourneyLog](https://github.com/Candyfair/JourneyLog) - a multimodal cycle touring planner with a public itinerary sharing feature. Next.js / TypeScript / Supabase.
-- [newsletter-digest](https://github.com/Candyfair/newsletter-digest) - an automated pipeline to summarize newsletters via a local LLM.
+Before moving into software engineering, I worked in IT project management and financial controlling. That background still influences the way I design products today: I naturally think in terms of user flows, edge cases, operational constraints, and failure scenarios.
 
-**Writing**
-Technical write-ups on candygetshandy.com/ux-coding - including a two-part deep dive on building IcelandicTeacher.
+## Current projects
+- **[Grid Asset Manager Frontend](https://github.com/Candyfair/grid-asset-manager-frontend)** — interactive bubble chart visualising a fleet of battery energy storage systems, with pan, zoom, and floating animation. Next.js frontend, consumes the [Grid Asset Manager](https://github.com/roadtowiganpier/grid-asset-manager) REST API.
+- **[IcelandicTeacher](https://github.com/Candyfair/IcelandicTeacher)** — local-first grammar learning app powered by a local LLM with a two-phase anti-hallucination pipeline.
+_Node.js · React · Vite · Ollama_
+- **[JourneyLog](https://github.com/Candyfair/JourneyLog)** — multimodal cycle touring planner with public itinerary sharing.
+_Next.js · TypeScript · Supabase_
+- **[newsletter-digest](https://github.com/Candyfair/newsletter-digest)** — automated newsletter summarization pipeline using local LLMs.
+
+
+I also write technical articles on:
+
+- [candygetshandy.com/ux-coding](https://candygetshandy.com/ux-coding/)
+
+Including a two-part deep dive on the architecture and anti-hallucination strategy behind IcelandicTeacher.
