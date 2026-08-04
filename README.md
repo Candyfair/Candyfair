@@ -13,7 +13,7 @@ My work spans frontend architecture, responsive interfaces, API integration, sta
 Before moving into software engineering, I worked in IT project management and financial controlling. That background still influences the way I design products today: I naturally think in terms of user flows, edge cases, operational constraints, and failure scenarios.
 
 ## Current projects
-- **[Grid Asset Manager Frontend](https://github.com/Candyfair/grid-asset-manager-frontend)** — interactive bubble chart visualising a fleet of battery energy storage systems, with pan, zoom, and floating animation. Next.js frontend, consumes the [Grid Asset Manager](https://github.com/roadtowiganpier/grid-asset-manager) REST API.
+- **[Renewable Assets Data Analytics (RADA)](https://github.com/Candyfair/grid-asset-manager-frontend)** — interactive bubble chart visualising a fleet of battery energy storage systems, with pan, zoom, and floating animation. Next.js frontend, consumes the [Grid Asset Manager](https://github.com/roadtowiganpier/grid-asset-manager) REST API.
 - **[IcelandicTeacher](https://github.com/Candyfair/IcelandicTeacher)** — local-first grammar learning app powered by a local LLM with a two-phase anti-hallucination pipeline.
 _Node.js · React · Vite · Ollama_
 - **[JourneyLog](https://github.com/Candyfair/JourneyLog)** — multimodal cycle touring planner with public itinerary sharing.
